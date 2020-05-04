@@ -42,8 +42,7 @@ def Next():
         print("Some great farewell phrases are, \"Sincerely, (Your Name)\", \"Take care.\", \"Best regards.\", \"Sorry for the inconvenience.\"")
         Farewell = input("Enter your farewell message:")
         Farewell = Farewell.strip()
-        Farewell = Farewell.capitalize()
-        if Farewell == "Save":
+        if Farewell == "SAVE":
             print("Saved \nProgram ended!")
             return "finish"
         else:
@@ -71,13 +70,13 @@ def formattext():
 
     perfoming()
 
-print("\n___________________________________________")
-print("|    " + "To end this program, type \"SAVE\"" + "    |")
-print("___________________________________________")
+print("\n*******************************************")
+print("\tTo end this program, type \"SAVE\"")
+print("*******************************************")
 print("")
-print("_________________________________________________________________________________________________________________________________________________________________")
-print("|    " + "This program will save your text into a text file called, \"PersonalizedGreetings.txt\", to change the name of the file, type \"NAMECHANGE\" as your Greeting  |")
-print("_________________________________________________________________________________________________________________________________________________________________\n")
+print("****************************************************************************************************************************************************************")
+print("\tThis program will save your text into a text file called, \"PersonalizedGreetings.txt\", to change the name of the file, type \"NAMECHANGE\" as your Greeting")
+print("****************************************************************************************************************************************************************\n")
 
 print("Some great greetinng examples would be, \"Dear\", \"Hi\", \"Hey\", \"To\", \"Welcome\", \"Congratulations\"")
 Greeting = input("Enter your greeting message:")
