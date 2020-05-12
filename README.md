@@ -28,6 +28,7 @@ Thank you for volunteering at my event on December 14th, 2019, for 6 hours. Feel
 
 Sincerely, "Your name".
 
-#Disclaimer
+# Disclaimer
+
 This script is not meant to be used for any malicious intent such as sending out spam or scam messages, YOU will take full responsibility for anything text YOU generate using this script. 
 
