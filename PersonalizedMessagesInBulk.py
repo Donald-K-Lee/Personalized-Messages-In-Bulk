@@ -2,6 +2,13 @@
 Project Name: Personalized Message In Bulk Generator
 By: Donald Lee
 Date Started: May 2nd, 2020
+
+For more information, visit "https://github.com/Donald-K-Lee/Personalized-Messages-In-Bulk/blob/master/README.md"
+
+Disclaimer:
+This script is not meant to be used for any malicious intent such as sending out spam or scam messages,
+YOU will take full responsibility for anything text YOU generate using this script.
+
 '''
 def Checkfornamechange():
     global Greeting
