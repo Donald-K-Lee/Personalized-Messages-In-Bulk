@@ -30,5 +30,5 @@ Sincerely, "Your name".
 
 # Disclaimer
 
-This script is not meant to be used for any malicious intent such as sending out spam or scam messages, YOU will take full responsibility for anything text YOU generate using this script. 
+This script is not meant to be used for any malicious intent such as sending out spam or scam messages, YOU will take full responsibility for anything YOU generate using this script. 
 
